@@ -58,7 +58,7 @@ This was a very quick hack-job of a project so there is the potential for bugs. 
 ## Thanks
 
 Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
-Zeroko 
+Zeroko   
 FloppusMaximus  
 Benjamin Moody  
 MateoC  
