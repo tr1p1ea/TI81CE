@@ -11,8 +11,8 @@ set /a SPLIT=%FILESIZE%-%MAINSIZE%-2
 res\split.exe TI81CE.8xp %SPLIT%
 res\split.exe TI81CE.8xp.002 32768
 endlocal
-copy /Y TI81CE.8xp.001 bin\release\"TI81CE - TI-84 Plus CE (Native).8xp.001"
-copy /Y TI81CE.8xp.002.002 bin\release\"TI81CE - TI-84 Plus CE (Native).8xp.003"
+copy /Y TI81CE.8xp.001 release\"TI81CE - TI-84 Plus CE (Native).8xp.001"
+copy /Y TI81CE.8xp.002.002 release\"TI81CE - TI-84 Plus CE (Native).8xp.003"
 del main.bin
 del main.lst
 del TI81CE.8xp
