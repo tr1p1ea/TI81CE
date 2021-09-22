@@ -45,3 +45,18 @@ Asm(prgmTI81CE
 You cannot install Unity on it the traditional way (since IM 2 interrupts aren't possible on the CE) ... but perhaps I should build similar ASM support into it. The best bit is that I'd store it outside of usable RAM so you'd get ~400+ bytes of precious RAM back. That being said with ASM you wouldn't be able to access ports since this is not emulation, it's a patch/port. No sending files, though it would be entirely possible to modify the RAM/register state stored inside the appvar instead of typing it all in (todo?)
 
 Dumping your own ROM is quite a difficult process since the 81 has no link port. There is some very valuable information here: [http://tiplanet.org/modules/archives/downloads/dump81.pdf](http://tiplanet.org/modules/archives/downloads/dump81.pdf)
+
+## Thanks
+
+Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
+Randy Compton
+FloppusMaximus
+Benjamin Moody
+Zeroko
+MateoC
+calc84
+Everyone at [Cemetech](https://www.cemetech.net)
+The creators of TilEm
+Everyone at [TIPlanet](https://www.tiplanet.org)
+
+
