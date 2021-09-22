@@ -26,7 +26,7 @@ TI81CE - TI-84 Plus CE (Native).8xp.001
 TI81CE - TI-84 Plus CE (Native).8xp.003
 ```
 
-Simply drag and drop your 1.8K ROM file onto the **makeprgm - (drag & drop 1.8K ROM file here).bat** file and it will create **TI81CE - TI-84 Plus CE (Native).8xp** for you.
+Simply drag and drop your 1.8K ROM file onto the **makeprgm - (drag & drop 1.8K ROM file here).bat** file and it will create **TI81CE - TI-84 Plus CE (Native).8xp** for you. The resultant file should be exactly 38,405 bytes.
 
 This is to avoid any complications with distributing my personal ROM dump.
 
