@@ -484,9 +484,9 @@ fillLCDBlock:
 	jr nz,fillLCDBlock
 	ret
 
-_4bppPaletteTable:
-	.dw $CA8F,$EACB,$BD84,$A4E3,$F39B,$C210,$A108,$94C7
-	.dw $CED0,$8000,$BE2D,$B1CB,$A969,$9D07,$94A5,$8863
+;_4bppPaletteTable:
+;	.dw $CA8F,$EACB,$BD84,$A4E3,$F39B,$C210,$A108,$94C7
+;	.dw $CED0,$8000,$BE2D,$B1CB,$A969,$9D07,$94A5,$8863
 
 ROMPatchTable:										; 1.8K only
 	.db 34

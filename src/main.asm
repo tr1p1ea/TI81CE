@@ -17,6 +17,8 @@ TI81ROM:
 PORTCODE:
 #include "src\port.asm"								; port handling, lcd etc
 #include "res\titlebar.inc"							; title bar graphic
+_4bppPaletteTable:
+#include "res\ti81pal.inc"							; 16 colour palette
 _relocate_end:										; end of relocatable binary
 
 #if PORTCODE != $8000								; check ROM is OK

@@ -1,4 +1,8 @@
 @echo off
+ECHO CONVERTING GRAPHICS
+res\convpal16.exe res\ti81.pal res\ti81pal.inc
+res\convce16.exe -a res\ti81.pal 292 27 res\titlebar.png res\titlebar.inc titleBar
+ECHO ASSEMBLING PROJECT
 SPASM.exe -T -E src\main.asm main.bin
 SPASM.exe -T -E src\program.asm TI81CE.8xp
 copy /Y TI81CE.8xp "bin\TI81CE - TI-84 Plus CE (Native).8xp" >nul
