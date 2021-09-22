@@ -39,6 +39,10 @@ Asm(prgmTI81CE
 
 **WARNING: If you have updated your calculator to an OS version > 5.5 then you will need to use [arTIfiCE](https://yvantt.github.io/arTIfiCE/) to run assembly programs. I suggest using it to install the [Cesium Shell](https://github.com/mateoconlechuga/cesium) for the best experience.**
 
+They keypad is quite similar, though there are some minor differences. One to note is that 'Quit' is actually 2nd + Clear on the 81.
+
+**To exit the program HOLD the ON key for 3 seconds.**
+
 ## Notes
 
 **This works with ROM version 1.8K ONLY.** A different ROM will likely crash (since this is a port that means the host system will crash).
@@ -54,10 +58,9 @@ This was a very quick hack-job of a project so there is the potential for bugs. 
 ## Thanks
 
 Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
-Randy Compton  
+Zeroko 
 FloppusMaximus  
 Benjamin Moody  
-Zeroko  
 MateoC  
 Adriweb  
 jacobly  
