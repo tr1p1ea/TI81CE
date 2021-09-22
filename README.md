@@ -32,7 +32,7 @@ This program is a native assembly file and can be run as such:
 Asm(prgmTI81CE
 ```
 
-**WARNING: If you have updated your calculator to an OS version > 5.5.\* then you will need to use [arTIfiCE](https://yvantt.github.io/arTIfiCE/) to run assembly programs. I suggest using it to install the [Cesium Shell](https://github.com/mateoconlechuga/cesium) for the best experience.**
+**WARNING: If you have updated your calculator to an OS version > 5.5 then you will need to use [arTIfiCE](https://yvantt.github.io/arTIfiCE/) to run assembly programs. I suggest using it to install the [Cesium Shell](https://github.com/mateoconlechuga/cesium) for the best experience.**
 
 ## Notes
 **This works with ROM version 1.8K ONLY.** A different ROM will likely crash (since this is a port that means the host system will crash).
