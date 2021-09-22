@@ -20,8 +20,13 @@ No other reason than just because, and perhaps a good way to preserve the 81 exp
 ## Installation
 
 The release is split into multiple binary blobs that can be joined together with your 1.8K ROM file.
+```
+makeprgm - (drag & drop 1.8K ROM file here).bat
+TI81CE - TI-84 Plus CE (Native).8xp.001
+TI81CE - TI-84 Plus CE (Native).8xp.003
+```
 
-Simply drag and drop your 1.8K ROM file onto the 'makeprgm - (drag & drop 1.8K ROM file here).bat' file and it will create 'TI81CE - TI-84 Plus CE (Native).8xp' for you.
+Simply drag and drop your 1.8K ROM file onto the **makeprgm - (drag & drop 1.8K ROM file here).bat** file and it will create **TI81CE - TI-84 Plus CE (Native).8xp** for you.
 
 This is to avoid any complications with distributing my personal ROM dump.
 
