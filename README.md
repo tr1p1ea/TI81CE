@@ -49,6 +49,7 @@ Dumping your own ROM is quite a difficult process since the 81 has no link port.
 ## Thanks
 
 Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
+```
 Randy Compton
 FloppusMaximus
 Benjamin Moody
@@ -60,3 +61,4 @@ Everyone at [Cemetech](https://www.cemetech.net)
 The creators of TilEm
 Everyone at [TIPlanet](https://www.tiplanet.org)
 And anyone else I forgot (please remind me)
+```
