@@ -40,11 +40,16 @@ Asm(prgmTI81CE
 **WARNING: If you have updated your calculator to an OS version > 5.5 then you will need to use [arTIfiCE](https://yvantt.github.io/arTIfiCE/) to run assembly programs. I suggest using it to install the [Cesium Shell](https://github.com/mateoconlechuga/cesium) for the best experience.**
 
 ## Notes
+
 **This works with ROM version 1.8K ONLY.** A different ROM will likely crash (since this is a port that means the host system will crash).
 
 You cannot install Unity on it the traditional way (since IM 2 interrupts aren't possible on the CE) ... but perhaps I should build similar ASM support into it. The best bit is that I'd store it outside of usable RAM so you'd get ~400+ bytes of precious RAM back. That being said with ASM you wouldn't be able to access ports since this is not emulation, it's a patch/port. No sending files, though it would be entirely possible to modify the RAM/register state stored inside the appvar instead of typing it all in (todo?)
 
 Dumping your own ROM is quite a difficult process since the 81 has no link port. There is some very valuable information here: [http://tiplanet.org/modules/archives/downloads/dump81.pdf](http://tiplanet.org/modules/archives/downloads/dump81.pdf)
+
+## BUGS!
+
+This was a very quick hack-job of a project so there is the potential for bugs. The release is only alpha so please be careful and let me know if you find anything ...
 
 ## Thanks
 
