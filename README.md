@@ -43,6 +43,8 @@ They keypad is quite similar, though there are some minor differences. One to no
 
 **To exit the program HOLD the ON key for 3 seconds.**
 
+![](https://tr1p1ea.net/files/downloads/ti81ce_keypad_comparison.png)
+
 ## Notes
 
 **This works with ROM version 1.8K ONLY.** A different ROM will likely crash (since this is a port that means the host system will crash).
