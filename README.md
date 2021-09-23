@@ -30,6 +30,8 @@ Simply drag and drop your 1.8K ROM file onto the **makeprgm - (drag & drop 1.8K 
 
 This is to avoid any complications with distributing my personal ROM dump.
 
+The SHA1 of my 1.8K ROM is: ba915cfe2fe50a452ef8287db8f2244e29056d54
+
 ## Running
 
 This program is a native assembly file and can be run as such:
