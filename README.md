@@ -57,6 +57,14 @@ Dumping your own ROM is quite a difficult process since the 81 has no link port.
 
 This was a very quick hack-job of a project so there is the potential for bugs. The release is only alpha so please be careful and let me know if you find anything ...
 
+## Source
+
+The source can be assembled with [SPASM-NG](https://github.com/alberthdev/spasm-ng)
+
+To build you will need to copy your 1.8K ROM file into the res\ directory. The source (main.asm) expects it to be named: ti81v18k.bin but you can change it to whatever you want.
+
+Note that the release binaries use a custom windows command tool for splitting files (split.exe in the res\ directory) - there are other ways to do this however, plus the source builds into a complete binary anyway, which will be copied to the bin\ directory if all goes well.
+
 ## Thanks
 
 Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
@@ -68,6 +76,7 @@ Adriweb
 jacobly  
 mr womp womp  
 calc84  
+critor  
 The creators of TilEm  
 Everyone at [Cemetech](https://www.cemetech.net)  
 Everyone at [TIPlanet](https://www.tiplanet.org)  
