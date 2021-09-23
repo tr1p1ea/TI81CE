@@ -523,4 +523,4 @@ ROMPatchTable:										; 1.8K only
 	.dw $70AA \ .db $C7,$82
 	.dw $70EB \ .db $C7,$82
 	.dw $70FE \ .db $C7,$82
-	.dw $7FFE \ .db $B7,$C0
+	.dw $7FFE \ .db $97,$C0
