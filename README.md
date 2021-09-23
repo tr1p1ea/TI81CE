@@ -61,7 +61,7 @@ This was a very quick hack-job of a project so there is the potential for bugs. 
 
 The source can be assembled with [SPASM-NG](https://github.com/alberthdev/spasm-ng)
 
-To build you will need to copy your 1.8K ROM file into the res\ directory. The source (main.asm) expects it to be named: ti81v18k.bin but you can change it to whatever you want.
+To build you will need to copy your 1.8K ROM file into the res\ directory. The source (main.asm) expects it to be named **ti81v18k.bin** but you can change it to whatever you want.
 
 Note that the release binaries use a custom windows command tool for splitting files (split.exe in the res\ directory) - there are other ways to do this however, plus the source builds into a complete binary anyway, which will be copied to the bin\ directory if all goes well.
 
