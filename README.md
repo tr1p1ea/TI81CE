@@ -72,3 +72,7 @@ The creators of TilEm
 Everyone at [Cemetech](https://www.cemetech.net)  
 Everyone at [TIPlanet](https://www.tiplanet.org)  
 And anyone else I forgot (please remind me) 
+
+## License
+
+TI81CE is licensed under the The Unlicense, see LICENSE for more details.
