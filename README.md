@@ -69,16 +69,15 @@ Note that the release binaries use a custom windows command tool for splitting f
 
 ## Thanks
 
-Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:
-Zeroko   
-FloppusMaximus  
-Benjamin Moody  
-MateoC  
-Adriweb  
-jacobly  
-mr womp womp  
-calc84  
-critor  
+Special thanks goes to the amazing work by the pioneers of the 81 scene and those who helped me along the way:  
+RANDY Compton (Zeroko)  
+Benjamin Moody (FloppusMaximus)  
+Matt Waltz (MateoConLechuga)  
+Adrien Bertrand (Adriweb)  
+Jacob Young (jacobly)  
+Fred Desautels (mr womp womp)  
+Brendan Fletcher (calc84maniac)  
+Xavier Andreani (critor)  
 The creators of TilEm  
 Everyone at [Cemetech](https://www.cemetech.net)  
 Everyone at [TIPlanet](https://www.tiplanet.org)  
